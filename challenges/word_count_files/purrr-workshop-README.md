@@ -1,5 +1,3 @@
-Source: Based on the materials from the workshop Happy R Users Purrr by Charlotte Wickham. <https://www.rstudio.com/resources/videos/happy-r-users-purrr-tutorial/>
-
 # Abstract
 
 Happy R users purrr: using functional programming to solve iteration problems
